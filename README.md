@@ -4,7 +4,7 @@
 
 Queries the Twitter API for a Twitter list or file of lists given at the command line and returns a list of usernames.
 
-arguments
+### arguments
 
 |  short    |  long           | description                |
 |-----------|-----------------|----------------------------|
